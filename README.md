@@ -1,6 +1,6 @@
 # first-ever-image-generation
 
-# example 2
+## example 2
 | Image 1 | Image 2 |
 |---|---|
 | ![Image 1](image1.jpg) | ![Image 2](image2.jpg) |
