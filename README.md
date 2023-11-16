@@ -125,7 +125,7 @@ Three anime-style female friends, Nadia, Nipa, and Aysha, stand together, their 
 |---|---|
 | ![Image 1](./img/9/9a.jpeg) | ![Image 2](./img/9/9b.jpeg) |
 | Image 3 | Image 4 |
-| ![Image 3](./img/9/9a.jpeg) | null |
+| ![Image 3](./img/9/9c.jpeg) | null |
 
 
 
